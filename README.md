@@ -20,4 +20,4 @@ Github Link: (https://github.com/gangadhary574)
 
 ## My Image: 
 
-![myImage](me.PNG)
+![Gangadhar](Gangadhar.png)
